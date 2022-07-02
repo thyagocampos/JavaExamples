@@ -2,6 +2,7 @@ package basics;
 
 public class WordReversal {
 	
+	//Receives an word and returns it reversed
 	public String ReverseWord(String Word) {
 				
 		StringBuilder SB = new StringBuilder(); 

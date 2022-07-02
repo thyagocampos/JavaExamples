@@ -15,4 +15,4 @@ Repositório contendo alguns exercícios em java
 * Find pair: Recebe um int[] e um número e verifica se a soma de dois membros do array equivalem ao número.
 * Find word: Dada um sentença e um índice, retorna a palavra correspondente ao índice.
 * WordReversal:  Recebe uma palavra e a retorna invertida.
-
+* Searches on array B for a number that contains 88999 and returns the name of contact on array A or NO CONTACT if nothing is found. It will return the first contact ordered alphabetically.   

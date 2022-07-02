@@ -2,6 +2,7 @@ package basics;
 
 import java.util.Arrays;
 
+//receives an int[] and a number and checks if the sum of two array members matches it.
 public class FindPair {
 
 	private int[] _arr;
@@ -22,8 +23,7 @@ public class FindPair {
 		
 		//create and high index 
 		int high = _arr.length -1;			
-		
-				
+						
 		while(low <= high) {
 			
 			//sum both index, high and low and check if they match with target
